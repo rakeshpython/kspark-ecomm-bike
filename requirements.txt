@@ -1,0 +1,6 @@
+fastapi == 0.78.0
+uvicorn[standard]
+requests
+unittest
+pytest
+pydantic
